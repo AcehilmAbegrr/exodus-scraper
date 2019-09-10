@@ -1,0 +1,27 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AcehilmAbegrr/web-scraper.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "Michael Garber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AcehilmAbegrr/web-scraper/issues"
+  },
+  "homepage": "https://github.com/AcehilmAbegrr/web-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^1.19.0",
+    "request": "^2.88.0"
+  }
+}
