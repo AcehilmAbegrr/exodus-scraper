@@ -1,5 +1,5 @@
 {
-  "name": "web-scraper",
+  "name": "exodus-wiki-scraper",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -21,7 +21,6 @@
   "homepage": "https://github.com/AcehilmAbegrr/web-scraper#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "puppeteer": "^1.19.0",
     "request": "^2.88.0"
   }
 }
